@@ -1,11 +1,10 @@
 #include <stdio.h>
-#include "NovoSUperTrunfo2.h"
 
 int main(){
     char estado1, estado2;
     char codigoDaCarta1[4], codigoDaCarta2[4];
     char nomeDaCidade1[50], nomeDaCidade2[50];
-    int populacao1, populacao2;
+    unsigned long populacao1, populacao2;
     float area1, area2;
     float pib1, pib2;
     int pontosTuristicosNaCidade1, pontosTuristicosNaCidade2;
