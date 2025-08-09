@@ -73,6 +73,7 @@ int main(){
     printf("Número de pontos turísticos: %d\n", pontosTuristicosNaCidade1);
     printf("Densidade Populacional: %.2f hab/km²\n", densidadePopulacional1);
     printf("PIB per Capita: %.2f reais\n", pibPerCapita1);
+    printf("Super Poder: %.2f\n", superpoder1);
 
     printf("\nCarta 2:\n");
     printf("O estado: %c\n", estado2);
@@ -84,6 +85,7 @@ int main(){
     printf("O número de pontos turísticos: %d\n", pontosTuristicosNaCidade2);
     printf("Densidade Populacional: %.2f hab/km²\n", densidadePopulacional2);
     printf("PIB per Capita: %.2f reais\n", pibPerCapita2);
+    printf("Super Poder: %.2f\n", superpoder2);
 
 //Aqui será comprado o Super Poder dos itens da carta 
     int PopulacaoVencedora = populacao1 > populacao2;
