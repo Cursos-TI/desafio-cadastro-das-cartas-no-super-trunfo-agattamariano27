@@ -56,7 +56,7 @@ int main(){
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Número de pontos turísticos: %d\n", pontosTuristicosNaCidade1);
 
-    printf("\nCarta 2:\n");
+    printf("\nCarta Super Trunfo 2:\n");
     printf("O estado: %c\n", estado2);
     printf("O código: %s\n", codigoDaCarta2);
     printf("O nome da cidade: %s\n", nomeDaCidade2);
