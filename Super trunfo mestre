@@ -75,7 +75,7 @@ int main(){
     printf("PIB per Capita: %.2f reais\n", pibPerCapita1);
     printf("Super Poder: %.2f\n", superpoder1);
 
-    printf("\nCarta 2:\n");
+    printf("\nCarta Super Trunfo 2:\n");
     printf("O estado: %c\n", estado2);
     printf("O código: %s\n", codigoDaCarta2);
     printf("O nome da cidade: %s\n", nomeDaCidade2);
